@@ -3,3 +3,10 @@
   padding: 0;
   box-sizing: border-box;
 }
+:root{
+  /* for primary button in header  */
+  --ctaBtnPrimary:#FF6033;
+  --ctaBtnPrimary_hover:#db461c;
+  --btnColorPrimary:#fff;
+  --ctaBtnFontLG:16px;
+}
